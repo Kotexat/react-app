@@ -7,6 +7,7 @@ import Menu from './Images/Menu.png'
 import Contact from './Images/Contact.png'
 import About from './Images/About.png'
 import Basket from './Images/Basket.png'
+import Button from './Button'
 
 export default function Header() {
   return (
@@ -51,9 +52,13 @@ export default function Header() {
               </NavLink>
 
             </li>
+
+           
           
           </ul>
         </nav>
+        <Button />
+
         <NavLink to='addcard' style={{ transition: "all 0.3s" }}>
           <div className='divBasket'>
             <img className='imgBasket' src={Basket}></img>
