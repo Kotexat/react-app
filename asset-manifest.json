@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/react-app/%20/static/css/main.177af34f.css",
-    "main.js": "/react-app/%20/static/js/main.bdf00fdc.js",
+    "main.js": "/react-app/%20/static/js/main.b708c02d.js",
     "static/js/787.b701888c.chunk.js": "/react-app/%20/static/js/787.b701888c.chunk.js",
+    "static/media/2.webp": "/react-app/%20/static/media/2.f9f9f7bfbd3fcd602aa1.webp",
+    "static/media/3.webp": "/react-app/%20/static/media/3.f89c8173c83e67cc9e58.webp",
+    "static/media/1.jpg": "/react-app/%20/static/media/1.1074eaad4fefe07eda84.jpg",
     "static/media/Contact.png": "/react-app/%20/static/media/Contact.11e4dd92fc52fc4a6379.png",
     "static/media/Home.png": "/react-app/%20/static/media/Home.8b2a0690d130d58f6446.png",
     "static/media/Menu.png": "/react-app/%20/static/media/Menu.4237a972ebda95e45477.png",
@@ -10,11 +13,11 @@
     "static/media/About.png": "/react-app/%20/static/media/About.b1db19d23da0946b860f.png",
     "index.html": "/react-app/%20/index.html",
     "main.177af34f.css.map": "/react-app/%20/static/css/main.177af34f.css.map",
-    "main.bdf00fdc.js.map": "/react-app/%20/static/js/main.bdf00fdc.js.map",
+    "main.b708c02d.js.map": "/react-app/%20/static/js/main.b708c02d.js.map",
     "787.b701888c.chunk.js.map": "/react-app/%20/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.177af34f.css",
-    "static/js/main.bdf00fdc.js"
+    "static/js/main.b708c02d.js"
   ]
 }
