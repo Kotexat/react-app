@@ -10,13 +10,17 @@ export default function Home() {
   const [index, setIndex] = useState(0)
 
   useEffect(() => {
-    setInterval(() => {
+    let x = setInterval(() => {
       if (index < images.length - 1) {
         setIndex(index + 1)
       } else {
         setIndex(0)
       }
-    }, 3000)
+    }, 2000)
+    return (
+      ()=>clearInterval(x)
+    )
+
   })
 
   return (
